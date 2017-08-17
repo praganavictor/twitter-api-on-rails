@@ -1,26 +1,14 @@
 # 1 day
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* On my first day I've to decide what language I will use and I chose ruby, because I know Locaweb use ruby for most of the project's and because Akira Matsuda(https://github.com/amatsuda) convenced me at RubyConf2016.
 
-Things you may want to cover:
+* After decide the language I'have to understand how api works so I start search at google and I find this website(https://github.com/sferik/twitter), that website give me a idea about what i need to start, but my inexperience with rails make i lost all day.
 
-* Ruby version
+# 2 day
 
-* System dependencies
+* At my second day I learn a lot about rails, API and tests, with podcast's and some courses I bought at udemy.
 
-* Configuration
+* After study a lot at work and on the subway, at home I finally configure the API Twitter at 1 in the morning...
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 =======
 # twitter-api-on-rails
