@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# twitter-api-on-rails
+>>>>>>> ae1a1b215b3e2c01f7fb1cc1848cde3273809a50
